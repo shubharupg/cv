@@ -2,8 +2,6 @@
 
 ## (2025) Doctoral research, Jadavpur University
 
----
-
 **2024** I teach Machine Learning as a Teaching Assistant with IIT Madras. 
 
 **2023** I group the sum of my pursuits in 2023 as an year in AI, as my studies were focused in classical machine learning, natural language processing and deep learning. 
