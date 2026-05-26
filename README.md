@@ -1,6 +1,6 @@
 # Work summary
 
-## (2025) Research and Development (R&D) Coordinator, Ramanujan Society of Research, IIT Madras
+## 2025 Research and Development (R&D) Coordinator, Ramanujan Society of Research, IIT Madras
 
 **2024** I teach Machine Learning as a Teaching Assistant with IIT Madras. 
 
