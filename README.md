@@ -1,6 +1,6 @@
 # Work summary
 
-## (2025) Doctoral research, Jadavpur University
+## (2025) Ramanujan Society of Research, IIT Madras
 
 **2024** I teach Machine Learning as a Teaching Assistant with IIT Madras. 
 
